@@ -46,4 +46,5 @@
 
 ### Follow Me
 
-[![Linkedin Badge](https://www.linkedin.com/in/sirirao-lade-b933a3250/)]([[https://www.linkedin.com/in/kishan0725/](https://www.linkedin.com/in/sairam-devulapally-49303921b/)](https://www.linkedin.com/in/sirirao-lade-b933a3250/)) 
+[![Linkedin Badge](https://www.linkedin.com/in/sirirao-lade-b933a3250/)] 
+([[https://www.linkedin.com/in/kishan0725/](https://www.linkedin.com/in/sairam-devulapally-49303921b/)](https://www.linkedin.com/in/sirirao-lade-b933a3250/)) 
